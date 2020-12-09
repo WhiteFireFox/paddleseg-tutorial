@@ -24,7 +24,7 @@
 ### **Windows(静态图)**
 
 &emsp;&emsp;<font size=4>本项目基于PaddleSeg-release-v0.6.0下的pdseg：**[链接](https://github.com/PaddlePaddle/PaddleSeg/tree/release/v0.6.0/pdseg)**</font><br><br>
-&emsp;&emsp;<font size=4>本项目迁移到PaddleSeg-develop下的pdseg也是没有问题的，兼容性好，也无需改动教程，按照教程走下去即可：**[链接](https://github.com/PaddlePaddle/PaddleSeg/tree/develop/pdseg)**</font><br><br>
+&emsp;&emsp;<font size=4>本项目迁移到PaddleSeg最新版下的pdseg也是没有问题的，兼容性好，也无需改动教程，按照教程走下去即可：**[链接](https://github.com/PaddlePaddle/PaddleSeg)**</font><br><br>
 &emsp;&emsp;<font size=4>(推荐下载)教学使用的所有资料(包括实践中使用的数据集，配置文件等)：**[资料链接②](https://aistudio.baidu.com/aistudio/datasetdetail/56352)**</font><br><br>
 &emsp;&emsp;<font size=4>[Windows：如何利用PaddleSeg做一个完整的项目(静态图)①](https://aistudio.baidu.com/aistudio/projectdetail/1101667)</font><br><br>
 &emsp;&emsp;<font size=4>[Windows：如何利用PaddleSeg做一个完整的项目(静态图)②](https://aistudio.baidu.com/aistudio/projectdetail/1111669)</font><br><br>
