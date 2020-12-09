@@ -12,7 +12,7 @@
 
 # **教程**
 
-## **Windows(动态图，new)**
+## **Windows(动态图)**
 
 &emsp;&emsp;<font size=4>本项目基于PaddleSeg-develop下的dygraph：**[链接](https://github.com/PaddlePaddle/PaddleSeg/tree/develop/dygraph)**</font><br><br>
 &emsp;&emsp;<font size=4>(推荐下载)教学使用的所有资料(包括实践中使用的数据集，配置文件等)：**[资料链接①](https://aistudio.baidu.com/aistudio/datasetdetail/56351)**</font><br><br>
@@ -29,15 +29,6 @@
 &emsp;&emsp;<font size=4>[Windows：如何利用PaddleSeg做一个完整的项目(静态图)①](https://aistudio.baidu.com/aistudio/projectdetail/1101667)</font><br><br>
 &emsp;&emsp;<font size=4>[Windows：如何利用PaddleSeg做一个完整的项目(静态图)②](https://aistudio.baidu.com/aistudio/projectdetail/1111669)</font><br><br>
 &emsp;&emsp;<font size=4>[Windows：如何利用PaddleSeg做一个完整的项目(静态图)③](https://aistudio.baidu.com/aistudio/projectdetail/1112473)</font><br><br>
-
-## **Windows(动态图，old)**
-
-&emsp;&emsp;<font size=4>本项目基于PaddleSeg-release-v0.6.0下的dygraph：**[链接](https://github.com/PaddlePaddle/PaddleSeg/tree/release/v0.6.0/dygraph)**</font><br><br>
-&emsp;&emsp;<font size=4>(推荐下载)教学使用的所有资料(包括实践中使用的数据集，配置文件等)：**[资料链接②](https://aistudio.baidu.com/aistudio/datasetdetail/56352)**</font><br><br>
-&emsp;&emsp;<font size=4>[Windows：如何利用PaddleSeg做一个完整的项目(动态图，old)准备工作](https://aistudio.baidu.com/aistudio/projectdetail/1119123)</font><br><br>
-&emsp;&emsp;<font size=4>[Windows：如何利用PaddleSeg做一个完整的项目(动态图，old)①](https://aistudio.baidu.com/aistudio/projectdetail/1119359)</font><br><br>
-&emsp;&emsp;<font size=4>[Windows：如何利用PaddleSeg做一个完整的项目(动态图，old)②](https://aistudio.baidu.com/aistudio/projectdetail/1119386)</font><br><br>
-&emsp;&emsp;<font size=4>[Windows：如何利用PaddleSeg做一个完整的项目(动态图，old)③](https://aistudio.baidu.com/aistudio/projectdetail/1123102)</font><br><br>
 
 ## **Linux(基于Ubuntu)**
 
