@@ -5,11 +5,6 @@
 &emsp;&emsp;<font size=4>PaddleSeg是基于PaddlePaddle开发的端到端图像分割开发套件，覆盖了DeepLabv3+, U-Net, ICNet, PSPNet, HRNet, Fast-SCNN等主流分割网络。通过模块化的设计，以配置化方式驱动模型组合，帮助开发者更便捷地完成从训练到部署的全流程图像分割应用。</font><br><br>
 &emsp;&emsp;<font size=4>文章将以一个例子为说明，来谈如何利用PaddleSeg完成一个项目。</font>
 
-## **注意事项**
-
-&emsp;&emsp;<font size=4>各位使用的小伙伴们，打开命令行的位置请和教材中的一致喔~</font><br><br>
-&emsp;&emsp;![](https://ai-studio-static-online.cdn.bcebos.com/fe03f143603b4f11850d8adf0d9b2b1daef9fa62fe2d48a1b66fcf096bba0e03)
-
 ## **教程**
 
 ### **Windows(动态图)**
@@ -37,6 +32,11 @@
 ### **关于数据集不得不说的一些小故事**
 
 &emsp;&emsp;<font size=4>[coco数据集](https://github.com/WhiteFireFox/paddleseg-tutorial/tree/main/coco)</font><br><br>
+
+## **注意事项**
+
+&emsp;&emsp;<font size=4>各位使用的小伙伴们，打开命令行的位置请和教材中的一致喔~</font><br><br>
+&emsp;&emsp;![](https://ai-studio-static-online.cdn.bcebos.com/fe03f143603b4f11850d8adf0d9b2b1daef9fa62fe2d48a1b66fcf096bba0e03)
 
 ## **关于作者**
 
