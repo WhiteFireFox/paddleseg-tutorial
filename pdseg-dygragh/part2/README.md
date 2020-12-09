@@ -3,7 +3,7 @@
 # **PaddleSeg简介**
 
 &emsp;&emsp;<font size=4>PaddleSeg是基于PaddlePaddle开发的端到端图像分割开发套件，覆盖了DeepLabv3+, U-Net, ICNet, PSPNet, HRNet, Fast-SCNN等主流分割网络。通过模块化的设计，以配置化方式驱动模型组合，帮助开发者更便捷地完成从训练到部署的全流程图像分割应用。</font><br><br>
-&emsp;&emsp;<font size=4>文章将在 **“[Windows：如何利用PaddleSeg做一个完整的项目(动态图)①](https://github.com/WhiteFireFox/paddleseg-tutorial/new/main/pdseg-dygragh/part1)”** 基础上，继续以一个例子为说明，来谈如何利用PaddleSeg完成一个项目。</font>
+&emsp;&emsp;<font size=4>文章将在 **“[Windows：如何利用PaddleSeg做一个完整的项目(动态图)①](https://github.com/WhiteFireFox/paddleseg-tutorial/tree/main/pdseg-dygragh/part1)”** 基础上，继续以一个例子为说明，来谈如何利用PaddleSeg完成一个项目。</font>
 
 # **项目目录**
 
